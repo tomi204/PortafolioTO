@@ -593,7 +593,10 @@ nav {
   flex-direction: column;
   padding-right: 30px;
 }
-
+.nombre {
+  color: white;
+  margin: 10px;
+}
 #h3-F {
   font-size: 42px;
 }
